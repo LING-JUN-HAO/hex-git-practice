@@ -1,2 +1,2 @@
-# hex-git-practice
-hex-git-practice
+## 團隊成員
+- Maxine
